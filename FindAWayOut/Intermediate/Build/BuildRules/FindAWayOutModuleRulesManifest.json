@@ -1,6 +1,12 @@
 {
 	"SourceFiles": [
 		"D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Source\\FindAWayOut\\FindAWayOut.Build.cs",
+		"D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprintExtension\\RiderBlueprintExtension.Build.cs",
+		"D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControlExtension\\RiderGameControlExtension.Build.cs",
+		"D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Plugins\\Developer\\RiderLink\\Source\\RiderLoggingExtension\\RiderLoggingExtension.Build.cs",
+		"D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfoDump\\RiderShaderInfoDump.Build.cs",
 		"D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Source\\FindAWayOut.Target.cs",
 		"D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Source\\FindAWayOutEditor.Target.cs"
 	],
