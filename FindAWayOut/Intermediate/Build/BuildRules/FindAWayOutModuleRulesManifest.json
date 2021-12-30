@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Source\\FindAWayOut\\FindAWayOut.Build.cs",
+		"D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Source\\FindAWayOut.Target.cs",
+		"D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Source\\FindAWayOutEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

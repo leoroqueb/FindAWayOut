@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FindAWayOut.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8B71D676-EAD7-48AE-9D05-3C6428E05A6F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FindAWayOut.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FindAWayOutEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CD51EF22-E571-4871-A718-5B3DE049681B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FindAWayOut">
+      <UniqueIdentifier>{5BD0F220-61F3-4309-9DBC-0038196FBF4A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FindAWayOut\FindAWayOut.Build.cs">
+      <Filter>Source\FindAWayOut</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FindAWayOut\FindAWayOut.cpp">
+      <Filter>Source\FindAWayOut</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FindAWayOut\FindAWayOut.h">
+      <Filter>Source\FindAWayOut</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FindAWayOut\FindAWayOutCharacter.cpp">
+      <Filter>Source\FindAWayOut</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FindAWayOut\FindAWayOutCharacter.h">
+      <Filter>Source\FindAWayOut</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FindAWayOut\FindAWayOutGameMode.cpp">
+      <Filter>Source\FindAWayOut</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FindAWayOut\FindAWayOutGameMode.h">
+      <Filter>Source\FindAWayOut</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FindAWayOut",
+			"Path": "D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Source\\FindAWayOut.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FindAWayOutEditor",
+			"Path": "D:\\ProyectosUE\\FindAWayOut\\FindAWayOut\\Source\\FindAWayOutEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

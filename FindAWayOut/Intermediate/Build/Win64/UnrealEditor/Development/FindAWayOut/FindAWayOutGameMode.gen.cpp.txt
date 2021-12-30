@@ -1,0 +1,9 @@
+D:\ProyectosUE\FindAWayOut\FindAWayOut\Intermediate\Build\Win64\UnrealEditor\Development\FindAWayOut\Definitions.FindAWayOut.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\ProyectosUE\FindAWayOut\FindAWayOut\Source\FindAWayOut/FindAWayOutGameMode.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\GameModeBase.generated.h
+D:\ProyectosUE\FindAWayOut\FindAWayOut\Intermediate\Build\Win64\UnrealEditor\Inc\FindAWayOut\FindAWayOutGameMode.generated.h

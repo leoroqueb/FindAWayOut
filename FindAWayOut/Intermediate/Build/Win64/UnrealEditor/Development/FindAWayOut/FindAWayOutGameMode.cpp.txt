@@ -1,0 +1,15 @@
+D:\ProyectosUE\FindAWayOut\FindAWayOut\Intermediate\Build\Win64\UnrealEditor\Development\FindAWayOut\Definitions.FindAWayOut.h
+D:\ProyectosUE\FindAWayOut\FindAWayOut\Source\FindAWayOut\FindAWayOutGameMode.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\GameModeBase.generated.h
+D:\ProyectosUE\FindAWayOut\FindAWayOut\Intermediate\Build\Win64\UnrealEditor\Inc\FindAWayOut\FindAWayOutGameMode.generated.h
+D:\ProyectosUE\FindAWayOut\FindAWayOut\Source\FindAWayOut\FindAWayOutCharacter.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\RootMotionSource.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\Character.generated.h
+D:\ProyectosUE\FindAWayOut\FindAWayOut\Intermediate\Build\Win64\UnrealEditor\Inc\FindAWayOut\FindAWayOutCharacter.generated.h
